@@ -1,0 +1,6 @@
+dash
+flask
+dash-html-components  
+gunicorn
+pandas
+
